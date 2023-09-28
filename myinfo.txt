@@ -1,2 +1,4 @@
 This is the information file
-This file is from dev2branch' master changes.
+This is developer 1 file.
+I'm from banglore
+I'm from delhi
